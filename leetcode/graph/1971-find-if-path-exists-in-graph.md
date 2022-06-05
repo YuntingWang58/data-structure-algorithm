@@ -31,7 +31,6 @@ There are no self edges.
 
 ## Solution
 
-
 1. BFS + Array
 
 * Time Complexity: O(n+edges)
