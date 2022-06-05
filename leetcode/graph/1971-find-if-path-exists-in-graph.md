@@ -34,6 +34,9 @@ There are no self edges.
 
 1. BFS + Array
 
+* Time Complexity: O(n+edges)
+* Space Complexity: O(n)
+
 ```java
 
 public boolean validPath(int n, int[][] edges, int source, int destination) {
